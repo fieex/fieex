@@ -1,6 +1,6 @@
 <p>
   <a target="_blank" href="https://api.moedog.org/count/"><img src="https://api.moedog.org/count/@github.fieex?theme=fieex"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
+  <img src="https://s3.bmp.ovh/imgs/2022/08/11/9cbdebd1deaeabd2.png" align="right">
 </p>
 
 #### Platform&Tools
